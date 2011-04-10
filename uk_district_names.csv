@@ -1,221 +1,380 @@
-00AA,London
-00AB,Barking & Dagenham
-00AC,Barnet
-00AD,Bexley
-00AE,Brent
-00AF,Bromley
-00AG,Camden
-00AH,Croydon
-00AJ,Ealing
-00AK,Enfield
-00AL,Greenwich
-00AM,Hackney
-00AN,Hammersmith & Fulham
-00AP,Haringey
-00AQ,Harrow
-00AR,Havering
-00AS,Hillingdon
-00AT,Hounslow
-00AU,Islington
-00AW,Kensington & Chelsea
-00AX,Kingston Upon Thames
-00AY,Lambeth
-00AZ,Lewisham
-00BA,Merton
-00BB,Newham
-00BL,Bolton
-00BM,Bury
-00BN,Manchester
-00BX,Knowsley
-00BY,Liverpool
-00CC,Barnsley
-00CE,Doncaster
-00CH,Gateshead
-00CJ,Newcastle Upon Tyne
-00CN,Birmingham
-00CQ,Coventry
-00CR,Dudley
-00CX,Bradford
-00CY,Calderdale
-00CZ,Kirklees
-00DA,Leeds
-00EB,Hartlepool
-00EC,Middlesbrough
-00EH,Darlington
-00EJ,County Durham
-00EQ,Cheshire East
-00ET,Halton
-00EW,Cheshire West & Chester
-00EX,Blackburn with Darwen
-00EY,Blackpool
-00FA,Kingston Upon Hull
-00FB,East Riding of Yorkshire
-00FC,North East Lincolnshire
-00FK,Derby
-00FN,Leicester
-00GA,Herefordshire
-00HA,Bath & North East Somerset
-00HB,Bristol
-00HE,Cornwall
-00HF,Isles of Scilly
-00HN,Bournemouth
-00KA,Luton
-00KB,Bedford
-00KC,Central Bedfordshire
-00LC,Medway
-00MA,Bracknell Forest
-00MG,Milton Keynes
-00ML,Brighton & Hove
-00MW,Isle of Wight
-00NA,Isle of Anglesey
-00NC,Gwynedd
-00NE,Conwy
-00NG,Denbighshire
-00NJ,Flintshire
-00NQ,Ceredigion
-00NU,Carmarthenshire
-00NX,Abertawe
-00NZ,Castell Nedd Port Talbot
-00PB,Bridgend
-00PD,Bro Morgannwg
-00PH,Merthyr Tydfil
-00PK,Caerffili
-00PL,Blaenau Gwent
-00PP,Monmouthshire
-00PR,Casnewydd
-00PT,Caerdydd
-00QA,Aberdeen
-00QB,Aberdeenshire
-00QC,Angus
-00QD,Argyll & Bute
-00QF,Clackmannanshire
-00QH,Dumfries & Galloway
-00QJ,Dundee
-00QK,East Ayrshire
-00QL,East Dunbartonshire
-00QM,East Lothian
-00QN,East Renfrewshire
-00QP,Edinburgh
-00QQ,Falkirk
-00QR,Fife
-00QS,Glasgow
-00QT,Highland
-00QU,Inverclyde
-00QW,Midlothian
-00QX,Moray
-00QY,North Ayrshire
-00QZ,North Lanarkshire
-00RJ,Na H Eileanan An Iar
-11UB,Aylesbury Vale
-11UC,Chiltern
-12UB,Cambridge
-12UC,East Cambridgeshire
-12UD,Fenland
-12UE,Huntingdonshire
-16UB,Allerdale
-16UC,Barrow in Furness
-16UD,Carlisle
-16UE,Copeland
-16UF,Eden
-17UB,Amber Valley
-17UC,Bolsover
-17UD,Chesterfield
-17UF,Derbyshire Dales
-17UG,Erewash
-17UH,High Peak
-17UJ,North East Derbyshire
-18UB,East Devon
-18UC,Exeter
-18UD,Mid Devon
-18UE,North Devon
-19UC,Christchurch
-19UD,East Dorset
-19UE,North Dorset
-21UC,Eastbourne
-21UD,Hastings
-21UF,Lewes
-22UB,Basildon
-22UC,Braintree
-22UD,Brentwood
-22UE,Castle Point
-22UF,Chelmsford
-22UG,Colchester
-22UH,Epping Forest
-22UJ,Harlow
-22UK,Maldon
-23UB,Cheltenham
-23UC,Cotswold
-23UD,Forest of Dean
-23UE,Gloucester
-24UB,Basingstoke & Deane
-24UC,East Hampshire
-24UD,Eastleigh
-24UE,Fareham
-24UF,Gosport
-24UG,Hart
-24UH,Havant
-24UJ,New Forest
-26UB,Broxbourne
-26UC,Dacorum
-26UD,East Hertfordshire
-26UE,Hertsmere
-26UF,North Hertfordshire
-29UB,Ashford
-29UC,Canterbury
-29UD,Dartford
-29UE,Dover
-29UG,Gravesham
-29UH,Maidstone
-30UD,Burnley
-30UE,Chorley
-30UF,Fylde
-30UG,Hyndburn
-30UH,Lancaster
-31UB,Blaby
-31UC,Charnwood
-31UD,Harborough
-31UE,Hinckley & Bosworth
-31UG,Melton
-32UB,Boston
-32UC,East Lindsey
-32UD,Lincoln
-32UE,North Kesteven
-33UB,Breckland
-33UC,Broadland
-33UD,Great Yarmouth
-33UE,Kings Lynn & West Norfolk
-34UB,Corby
-34UC,Daventry
-34UD,East Northamptonshire
-34UE,Kettering
-36UB,Craven
-36UC,Hambleton
-36UD,Harrogate
-37UB,Ashfield
-37UC,Bassetlaw
-37UD,Broxtowe
-37UE,Gedling
-37UF,Mansfield
-37UG,Newark & Sherwood
-38UB,Cherwell
-40UB,Mendip
-41UB,Cannock Chase
-41UC,East Staffordshire
-41UD,Lichfield
-41UE,Newcastle Under Lyme
-42UB,Babergh
-42UC,Forest Heath
-42UD,Ipswich
-42UE,Mid Suffolk
-43UB,Elmbridge
-43UC,Epsom & Ewell
-43UD,Guildford
-43UE,Mole Valley
-45UB,Adur
-45UC,Arun
-45UD,Chichester
-45UE,Crawley
-45UF,Horsham
-45UG,Mid Sussex
-47UB,Bromsgrove
-47UC,Malvern Hills
+00AA,"City &   London"
+00AB,"Barking & Dagenham"
+00AC,"Barnet"
+00AD,"Bexley"
+00AE,"Brent"
+00AF,"Bromley"
+00AG,"Camden"
+00AH,"Croydon"
+00AJ,"Ealing"
+00AK,"Enfield"
+00AL,"Greenwich"
+00AM,"Hackney"
+00AN,"Hammersmith & Fulham"
+00AP,"Haringey"
+00AQ,"Harrow"
+00AR,"Havering"
+00AS,"Hillingdon"
+00AT,"Hounslow"
+00AU,"Islington"
+00AW,"Kensington & Chelsea"
+00AX,"Kingston Upon Thames"
+00AY,"Lambeth"
+00AZ,"Lewisham"
+00BA,"Merton"
+00BB,"Newham"
+00BC,"Redbridge"
+00BD,"Richmond"
+00BE,"Southwark"
+00BF,"Sutton"
+00BG,"Tower Hamlets"
+00BH,"Waltham Forest"
+00BJ,"Wandsworth"
+00BK,"Westminster"
+00BL,"Bolton"
+00BM,"Bury"
+00BN,"Manchester"
+00BP,"Oldham"
+00BQ,"Rochdale"
+00BR,"Salford"
+00BS,"Stockport"
+00BT,"Tameside"
+00BU,"Trafford"
+00BW,"Wigan"
+00BX,"Knowsley"
+00BY,"Liverpool"
+00BZ,"St Helens"
+00CA,"Sefton"
+00CB,"Wirral"
+00CC,"Barnsley"
+00CE,"Doncaster"
+00CF,"Rotherham"
+00CG,"Sheffield"
+00CH,"Gateshead"
+00CJ,"Newcastle Upon Tyne"
+00CK,"North Tyneside"
+00CL,"South Tyneside"
+00CM,"Sunderland"
+00CN,"Birmingham"
+00CQ,"Coventry"
+00CR,"Dudley"
+00CS,"Sandwell"
+00CT,"Solihull"
+00CU,"Walsall"
+00CW,"Wolverhampton"
+00CX,"Bradford"
+00CY,"Calderdale"
+00CZ,"Kirklees"
+00DA,"Leeds"
+00DB,"Wakefield"
+00EB,"Hartlepool"
+00EC,"Middlesbrough"
+00EE,"Redcar & Cleveland"
+00EF,"Stockton-on-tees"
+00EH,"Darlington"
+00EJ,"County Durham"
+00EM,"Northumberland"
+00EQ,"Cheshire East"
+00ET,"Halton"
+00EU,"Warrington"
+00EW,"Cheshire West & Chester"
+00EX,"Blackburn with Darwen"
+00EY,"Blackpool"
+00FA,"Hull"
+00FB,"East Riding of Yorkshire"
+00FC,"North East Lincolnshire"
+00FD,"North Lincolnshire"
+00FF,"York"
+00FK,"Derby"
+00FN,"Leicester"
+00FP,"Rutland"
+00FY,"Nottingham"
+00GA,"Herefordshire"
+00GF,"Telford & Wrekin"
+00GG,"Shropshire"
+00GL,"Stoke-on-trent"
+00HA,"Bath & North East Somerset"
+00HB,"Bristol"
+00HC,"North Somerset"
+00HD,"South Gloucestershire"
+00HE,"Cornwall"
+00HF,"Isles of Scilly"
+00HG,"Plymouth"
+00HH,"Torbay"
+00HN,"Bournemouth"
+00HP,"Poole"
+00HX,"Swindon"
+00HY,"Wiltshire"
+00JA,"Peterborough"
+00KA,"Luton"
+00KB,"Bedford"
+00KC,"Central Bedfordshire"
+00KF,"Southend-on-sea"
+00KG,"Thurrock"
+00LC,"Medway"
+00MA,"Bracknell Forest"
+00MB,"West Berkshire"
+00MC,"Reading"
+00MD,"Slough"
+00ME,"Windsor & Maidenhead"
+00MF,"Wokingham"
+00MG,"Milton Keynes"
+00ML,"Brighton & Hove"
+00MR,"Portsmouth"
+00MS,"Southampton"
+00MW,"Isle of Wight"
+00NA,"Sir Ynys Mon"
+00NC,"Gwynedd"
+00NE,"Conwy"
+00NG,"Sir Ddinbych"
+00NJ,"Flintshire"
+00NL,"Wrecsam"
+00NN,"Powys"
+00NQ,"Ceredigion"
+00NS,"Sir Benfro"
+00NU,"Sir Gaerfyrddin"
+00NX,"Swansea"
+00NZ,"Neath Port Talbot"
+00PB,"Bridgend"
+00PD,"Bro Morgannwg"
+00PF,"Rhondda, Cynon, Taf"
+00PH,"Merthyr Tudful"
+00PK,"Caerffili"
+00PL,"Blaenau Gwent"
+00PM,"Torfaen"
+00PP,"Sir Fynwy"
+00PR,"Newport"
+00PT,"Cardiff"
+00QA,"Aberdeen"
+00QB,"Aberdeenshire"
+00QC,"Angus"
+00QD,"Argyll & Bute"
+00QE,"Scottish Borders"
+00QF,"Clackmannanshire"
+00QG,"West Dunbartonshire"
+00QH,"Dumfries & Galloway"
+00QJ,"Dundee"
+00QK,"East Ayrshire"
+00QL,"East Dunbartonshire"
+00QM,"East Lothian"
+00QN,"East Renfrewshire"
+00QP,"Edinburgh"
+00QQ,"Falkirk"
+00QR,"Fife"
+00QS,"Glasgow"
+00QT,"Highland"
+00QU,"Inverclyde"
+00QW,"Midlothian"
+00QX,"Moray"
+00QY,"North Ayrshire"
+00QZ,"North Lanarkshire"
+00RA,"Orkney Islands"
+00RB,"Perth & Kinross"
+00RC,"Renfrewshire"
+00RD,"Shetland Islands"
+00RE,"South Ayrshire"
+00RF,"South Lanarkshire"
+00RG,"Stirling"
+00RH,"West Lothian"
+00RJ,"Na H-eileanan An Iar"
+11UB,"Aylesbury Vale"
+11UC,"Chiltern"
+11UE,"South Bucks"
+11UF,"Wycombe"
+12UB,"Cambridge"
+12UC,"East Cambridgeshire"
+12UD,"Fenland"
+12UE,"Huntingdonshire"
+12UG,"South Cambridgeshire"
+16UB,"Allerdale"
+16UC,"Barrow-in-furness"
+16UD,"Carlisle"
+16UE,"Copeland"
+16UF,"Eden"
+16UG,"South Lakeland"
+17UB,"Amber Valley"
+17UC,"Bolsover"
+17UD,"Chesterfield"
+17UF,"Derbyshire Dales"
+17UG,"Erewash"
+17UH,"High Peak"
+17UJ,"North East Derbyshire"
+17UK,"South Derbyshire"
+18UB,"East Devon"
+18UC,"Exeter"
+18UD,"Mid Devon"
+18UE,"North Devon"
+18UG,"South Hams"
+18UH,"Teignbridge"
+18UK,"Torridge"
+18UL,"West Devon"
+19UC,"Christchurch"
+19UD,"East Dorset"
+19UE,"North Dorset"
+19UG,"Purbeck"
+19UH,"West Dorset"
+19UJ,"Weymouth & Portland"
+21UC,"Eastbourne"
+21UD,"Hastings"
+21UF,"Lewes"
+21UG,"Rother"
+21UH,"Wealden"
+22UB,"Basildon"
+22UC,"Braintree"
+22UD,"Brentwood"
+22UE,"Castle Point"
+22UF,"Chelmsford"
+22UG,"Colchester"
+22UH,"Epping Forest"
+22UJ,"Harlow"
+22UK,"Maldon"
+22UL,"Rochford"
+22UN,"Tendring"
+22UQ,"Uttlesford"
+23UB,"Cheltenham"
+23UC,"Cotswold"
+23UD,"Forest of Dean"
+23UE,"Gloucester"
+23UF,"Stroud"
+23UG,"Tewkesbury"
+24UB,"Basingstoke & Deane"
+24UC,"East Hampshire"
+24UD,"Eastleigh"
+24UE,"Fareham"
+24UF,"Gosport"
+24UG,"Hart"
+24UH,"Havant"
+24UJ,"New Forest"
+24UL,"Rushmoor"
+24UN,"Test Valley"
+24UP,"Winchester"
+26UB,"Broxbourne"
+26UC,"Dacorum"
+26UD,"East Hertfordshire"
+26UE,"Hertsmere"
+26UF,"North Hertfordshire"
+26UG,"St Albans"
+26UH,"Stevenage"
+26UJ,"Three Rivers"
+26UK,"Watford"
+26UL,"Welwyn Hatfield"
+29UB,"Ashford"
+29UC,"Canterbury"
+29UD,"Dartford"
+29UE,"Dover"
+29UG,"Gravesham"
+29UH,"Maidstone"
+29UK,"Sevenoaks"
+29UL,"Shepway"
+29UM,"Swale"
+29UN,"Thanet"
+29UP,"Tonbridge & Malling"
+29UQ,"Tunbridge Wells"
+30UD,"Burnley"
+30UE,"Chorley"
+30UF,"Fylde"
+30UG,"Hyndburn"
+30UH,"Lancaster"
+30UJ,"Pendle"
+30UK,"Preston"
+30UL,"Ribble Valley"
+30UM,"Rossendale"
+30UN,"South Ribble"
+30UP,"West Lancashire"
+30UQ,"Wyre"
+31UB,"Blaby"
+31UC,"Charnwood"
+31UD,"Harborough"
+31UE,"Hinckley & Bosworth"
+31UG,"Melton"
+31UH,"North West Leicestershire"
+31UJ,"Oadby & Wigston"
+32UB,"Boston"
+32UC,"East Lindsey"
+32UD,"Lincoln"
+32UE,"North Kesteven"
+32UF,"South Holland"
+32UG,"South Kesteven"
+32UH,"West Lindsey"
+33UB,"Breckland"
+33UC,"Broadland"
+33UD,"Great Yarmouth"
+33UE,"Kings Lynn & West Norfolk"
+33UF,"North Norfolk"
+33UG,"Norwich"
+33UH,"South Norfolk"
+34UB,"Corby"
+34UC,"Daventry"
+34UD,"East Northamptonshire"
+34UE,"Kettering"
+34UF,"Northampton"
+34UG,"South Northamptonshire"
+34UH,"Wellingborough"
+36UB,"Craven"
+36UC,"Hambleton"
+36UD,"Harrogate"
+36UE,"Richmondshire"
+36UF,"Ryedale"
+36UG,"Scarborough"
+36UH,"Selby"
+37UB,"Ashfield"
+37UC,"Bassetlaw"
+37UD,"Broxtowe"
+37UE,"Gedling"
+37UF,"Mansfield"
+37UG,"Newark & Sherwood"
+37UJ,"Rushcliffe"
+38UB,"Cherwell"
+38UC,"Oxford"
+38UD,"South Oxfordshire"
+38UE,"Vale of White Horse"
+38UF,"West Oxfordshire"
+40UB,"Mendip"
+40UC,"Sedgemoor"
+40UD,"South Somerset"
+40UE,"Taunton Deane"
+40UF,"West Somerset"
+41UB,"Cannock Chase"
+41UC,"East Staffordshire"
+41UD,"Lichfield"
+41UE,"Newcastle-under-lyme"
+41UF,"South Staffordshire"
+41UG,"Stafford"
+41UH,"Staffordshire Moorlands"
+41UK,"Tamworth"
+42UB,"Babergh"
+42UC,"Forest Heath"
+42UD,"Ipswich"
+42UE,"Mid Suffolk"
+42UF,"St Edmundsbury"
+42UG,"Suffolk Coastal"
+42UH,"Waveney"
+43UB,"Elmbridge"
+43UC,"Epsom & Ewell"
+43UD,"Guildford"
+43UE,"Mole Valley"
+43UF,"Reigate & Banstead"
+43UG,"Runnymede"
+43UH,"Spelthorne"
+43UJ,"Surrey Heath"
+43UK,"Tandridge"
+43UL,"Waverley"
+43UM,"Woking"
+44UB,"North Warwickshire"
+44UC,"Nuneaton & Bedworth"
+44UD,"Rugby"
+44UE,"Stratford-on-avon"
+44UF,"Warwick"
+45UB,"Adur"
+45UC,"Arun"
+45UD,"Chichester"
+45UE,"Crawley"
+45UF,"Horsham"
+45UG,"Mid Sussex"
+45UH,"Worthing"
+47UB,"Bromsgrove"
+47UC,"Malvern Hills"
+47UD,"Redditch"
+47UE,"Worcester"
+47UF,"Wychavon"
+47UG,"Wyre Forest"
