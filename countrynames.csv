@@ -15,7 +15,7 @@ AT,Austria
 AU,Australia      
 AW,Aruba      
 AZ,Azerbaijan      
-BA,Bosnia and Herzegovina    
+BA,Bosnia and Herzegovina | Bosnia
 BB,Barbados      
 BD,Bangladesh      
 BE,Belgium      
@@ -25,7 +25,7 @@ BH,Bahrain
 BI,Burundi      
 BJ,Benin      
 BM,Bermuda      
-BN,Brunei Darussalam     
+BN,Brunei Darussalam | Brunei
 BO,Bolivia      
 BR,Brazil      
 BS,Bahamas      
@@ -40,7 +40,7 @@ CD,Democratic Republic of Congo
 CF,Central African Republic    
 CG,Congo      
 CH,Switzerland      
-CI,Cote D'Ivoire | Ivory Coast   
+CI,Cote D'Ivoire | Ivory Coast | Cote d'Ivoire   
 CK,Cook Islands     
 CL,Chile      
 CM,Cameroon      
@@ -73,7 +73,7 @@ FM,Micronesia
 FO,Faroe Islands     
 FR,France      
 GA,Gabon      
-GB,Great Britain | UK | England | Scotland | Wales | Northern Ireland    
+GB,Great Britain | UK | England | Scotland | Wales | Northern Ireland | United Kingdom 
 GD,Grenada      
 GE,Georgia      
 GF,French Guiana     
@@ -193,7 +193,7 @@ SG,Singapore
 SH,St. Helena     
 SI,Slovenia      
 SJ,Svalbard and Jan Mayen Islands  
-SK,Slovak Republic     
+SK,Slovak Republic | Slovakia     
 SL,Sierra Leone     
 SM,San Marino     
 SN,Senegal      
@@ -201,7 +201,7 @@ SO,Somalia
 SR,Suriname      
 ST,Sao Tome and Principe   
 SV,El Salvador     
-SY,Syria      
+SY,Syria | Syrian Arab Republic      
 SZ,Swaziland      
 TC,Turks and Caicos Islands   
 TD,Chad      
@@ -229,7 +229,7 @@ VC,Saint Vincent and the Grenadines
 VE,Venezuela      
 VG,British Virgin Islands    
 VI,U.S. Virgin Islands    
-VN,Viet Nam     
+VN,Viet Nam | Vietnam     
 VU,Vanuatu      
 WF,Wallis and Futuna Islands   
 WS,Samoa      
